@@ -32,7 +32,7 @@ Key Features of Cliptories:
 ## Getting Started
 
 ### Installation
-   <a href="" target="_blank">
+   <a href="https://routinehub.co/shortcut/17574/" target="_blank">
   <img src="https://github.com/hamzdot/Cliptories/blob/main/.github/Cliptories-download.PNG" alt="Download from RoutineHub" height="90" />
 </a>
 
