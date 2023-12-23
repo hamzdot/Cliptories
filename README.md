@@ -6,25 +6,23 @@ Cliptories is an clipboard manager designed to help users manage copied text or 
 
 ## Key Features
 
-Key Features of Cliptories:
-
-- **View:**
+- **View**
    - Easily review the contents of the current clipboard.
 
-- **Edit Text:**
+- **Edit Text**
    - Make modifications to the copied text directly within Cliptories.
 
-- **Add to DataJar:**
+- **Add to DataJar**
    - Save current clipboard to DataJar for future reference or reuse.
 
-- **Get from DataJar:**
+- **Get from DataJar**
    - Retrieve stored item from DataJar to quickly access previously saved content.
 
-- **DataJar Menu:**
+- **DataJar Menu**
      - Navigate to the store in DataJar
      - Delete all items within the Cliptories store in DataJar
 
-- **Clear:**
+- **Clear**
    - Clear the current clipboard, providing a quick way to remove the existing copied content.
 
   **🐈**
